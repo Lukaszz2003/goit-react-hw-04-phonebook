@@ -8,12 +8,13 @@
   padding: 5px 10px;
   margin-bottom: 15px;
   width: 180px;
+  background-color: chartreuse;
 }
 .btn {
-  background-color: orange;
+  background-color: chocolate;
   border: none;
   padding: 15px 20px;
-  color: black;
+  color: greenyellow;
   text-transform: uppercase;
   border-radius: 7px;
   font-weight: 700;

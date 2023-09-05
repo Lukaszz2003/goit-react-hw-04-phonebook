@@ -1,20 +1,20 @@
 .wrap {
   display: flex;
-  background-color: bisque;
+  background-color: turquoise;
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0px 10px 13px -7px #000000;
+  box-shadow: 0px 10px 13px -7px darkgray;
 }
 .phonebook {
   padding: 40px;
 }
 .title {
-  color: #282828;
+  color: chocolate;
   margin-bottom: 70px;
   text-transform: uppercase;
 }
 .contacts {
-  background-color: lightgreen;
+  background-color: chocolate;
   padding: 40px;
   padding-top: 50px;
   min-width: 320px;
